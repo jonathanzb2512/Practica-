@@ -1,0 +1,13 @@
+{
+  "name": "node-project",
+  "version": "1.0.0",
+  "description": "Proyecto de Node.js básico",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
